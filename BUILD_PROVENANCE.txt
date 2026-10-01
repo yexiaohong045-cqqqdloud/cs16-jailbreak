@@ -1,0 +1,6 @@
+Compiler source: https://github.com/alliedmodders/amxmodx/tree/master/compiler
+Source archive: https://codeload.github.com/alliedmodders/amxmodx/tar.gz/refs/heads/master
+AMX Mod X 1.10.0-manual; compiled on Linux x86_64 with 32-bit Pawn cells.
+Compiler driver was built with -fpermissive for legacy pointer casts; no Pawn program was executed by this compiler.
+Includes: official AMXX 1.10 release downloaded 2026-10-01.
+Compilation passed; no live game/voice test performed.
